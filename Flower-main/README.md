@@ -1,15 +1,6 @@
 # Flower
 This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
 
-### Downlode Source code from github
-Using This : 
-
-```
-$ git clone https://github.com/naveen-kumawat/Flower.git
-```
-
-
-
 ### Map SCSS file with HTML
 
 Also map js file with html file 
